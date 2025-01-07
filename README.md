@@ -27,11 +27,12 @@ Investigating a medical insurance costs dataset using Python skills.
 Mean Squared Error (MSE):
   - Gradient Boosting: 18,806,526.04
   - Ensemble (Voting): 18,984,836.56
-	- Pipeline RF Model: 19,980,284.73
+  - Pipeline RF Model: 19,980,284.73
+
 R² Score:
-	- Gradient Boosting: 0.8789
-	- Ensemble (Voting): 0.8777
-	- Pipeline RF Model: 0.8713
+  - Gradient Boosting: 0.8789
+  - Ensemble (Voting): 0.8777
+  - Pipeline RF Model: 0.8713
 
 ## 4. How to Run
 - Clone this repository:
