@@ -29,18 +29,18 @@ Investigating a medical insurance costs dataset using Python skills.
 Follow these steps to set up and run the project:
 
 1.Clone this repository:
-	•	Run the following commands in your terminal:
-	 •	git clone https://github.com/taeyang0505/us-medical-insurance-analysis-project.git
-	 •	cd us-medical-insurance-analysis-project
+	•Run the following commands in your terminal:
+	 •git clone https://github.com/taeyang0505/us-medical-insurance-analysis-project.git
+	 •cd us-medical-insurance-analysis-project
  
 2.Install required libraries:
-	•	Run the following command:
-	 •	pip install pandas numpy matplotlib seaborn scikit-learn
+	•Run the following command:
+	 •pip install pandas numpy matplotlib seaborn scikit-learn
  
 3.Run the project in Jupyter Lab:
-	•	Start Jupyter Lab by running:
-	 •	jupyter lab
-	 •	Open the file us-medical-insurance-costs.ipynb and execute the cells step-by-step.
+	•Start Jupyter Lab by running:
+	 •jupyter lab
+	 •Open the file us-medical-insurance-costs.ipynb and execute the cells step-by-step.
 
 
 ## 5. Project Structure
