@@ -42,7 +42,11 @@ us-medical-insurance-analysis-project/
 - Identify key factors affecting medical insurance costs.
 - Use data visualization to gain insights into the dataset.
 - Build a machine learning model to predict insurance costs based on key variables.
-
+  `•	Linear Regression`
+	`•	Random Forest`
+	`•	Gradient Boosting`
+	`•	Ensemble (Voting Regressor)`
+- Highlight feature importance using Random Forest and Gradient Boosting.
 
 ## 7. Conclusions and Future Work
 - **Key Findings**:
