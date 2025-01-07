@@ -29,12 +29,14 @@ Investigating a medical insurance costs dataset using Python skills.
 
 ## 5. Project Structure
 The repository is organized as follows:
+
+```
 us-medical-insurance-analysis-project/
 ├── insurance.csv                # Dataset file
 ├── us-medical-insurance.ipynb   # Jupyter Notebook for analysis
 ├── README.md                    # Project description
 ├── insurance_predictions.csv    # Model prediction results
-
+```
 
 ## 6. Objectives
 - Identify key factors affecting medical insurance costs.
