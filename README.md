@@ -1,5 +1,5 @@
 # us-medical-insurance-analysis-project
-Investigating a medical insurance costs dataset using Python skills.
+Using Python technology and machine learning, we investigate the health insurance cost dataset.
 
 ## 1. Project Overview
 - This project aims to analyze factors affecting medical insurance costs in the United States.
