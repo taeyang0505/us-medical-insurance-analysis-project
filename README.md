@@ -6,7 +6,18 @@ Using Python technology and machine learning, I investigated the health insuranc
 - Using the `insurance.csv` dataset, we explored key variables like age, BMI, and smoking habits.
 - Various machine learning models, including Linear Regression, Random Forest, Gradient Boosting, and Ensemble Methods, were implemented to predict insurance costs.
 
-## 2. Dataset
+## 2. Project Structure
+The repository is organized as follows:
+
+```
+us-medical-insurance-analysis-project/
+├── insurance.csv                # Dataset file
+├── us-medical-insurance.ipynb   # Jupyter Notebook for analysis
+├── README.md                    # Project description
+├── insurance_predictions.csv    # Model prediction results
+```
+
+## 3. Dataset
 - **Columns**:
   - `age`: Age of the individual.
   - `sex`: Gender (`male`, `female`).
@@ -16,7 +27,7 @@ Using Python technology and machine learning, I investigated the health insuranc
   - `region`: Residential area in the US.
   - `charges`: Insurance charges (target variable).
 
-## 3. Key Results
+## 4. Key Results
 3.1 Insights
 - Smoking status has the most significant impact on insurance costs.
 - The linear regression model achieved an R-squared value of 0.74.
@@ -34,23 +45,11 @@ R² Score:
   - Ensemble (Voting): 0.8777
   - Pipeline RF Model: 0.8713
 
-## 4. How to Run
+## 5. How to Run
 - Clone this repository:
   ```bash
   git clone https://github.com/taeyang0505/us-medical-insurance-analysis-project.git
   cd us-medical-insurance-analysis-project
-
-
-## 5. Project Structure
-The repository is organized as follows:
-
-```
-us-medical-insurance-analysis-project/
-├── insurance.csv                # Dataset file
-├── us-medical-insurance.ipynb   # Jupyter Notebook for analysis
-├── README.md                    # Project description
-├── insurance_predictions.csv    # Model prediction results
-```
 
 ## 6. Objectives
 - Identify key factors affecting medical insurance costs.
